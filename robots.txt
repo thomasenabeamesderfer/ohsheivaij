@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vufiechohp.mdotm.pl/sitemap.xml
